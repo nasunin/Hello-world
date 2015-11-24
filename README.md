@@ -1,3 +1,3 @@
 # Hello-World
-update vps2
+update mac
 add text.
