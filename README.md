@@ -1,3 +1,3 @@
 # Hello-World
-update mac
+update win3 
 add text.
